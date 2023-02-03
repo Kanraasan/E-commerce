@@ -258,7 +258,7 @@ h4 {
 }
 
 .footer-col-3,
-.footer-col-4{
+.footer-col-4 {
   flex-basis: 12%;
   text-align: center;
 }
@@ -267,7 +267,7 @@ ul {
   list-style-type: none;
 }
 
-.app-logo{
+.app-logo {
   margin-top: 20px;
 }
 
@@ -275,7 +275,7 @@ ul {
   width: 140px;
 }
 
-.footer hr{
+.footer hr {
   border: none;
   background: #b5b5b5;
   height: 1px;
@@ -285,145 +285,6 @@ ul {
 .copyright {
   text-align: center;
 }
-
-table{
-  width: 100%;
-  border-collapse: collapse;
-}
-
-th {
-  padding: 5px;
-  text-align: left;
-  background-color: #595959;
-  color: white;
-  font-weight: normal;
-}
-.cart-info img {
-  width: 90px;
-  height: 90px;
-}
-
-.cart-info {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-td {
-  padding: 15px 5px;
-}
-
-td input {
-  width: 30px;
-  padding: 3px;
-}
-
-.total-price {
-  display: flex;
-  justify-content: flex-end;
-}
-
-.total-price table {
-  width: 100%;
-  max-width: 400px;
-  border-top: 2px solid #3e3d3dfd;
-}
-
-.account-page {
-  padding: 130px 0;
-  background: radial-gradient(#ffffff,#dfc3fb);
-}
-
-.form-container{
-  background: #fff;
-  width: 300px;
-  height: 350px;
-  position: relative;
-  text-align: center;
-  padding: 20px 0;
-  margin-top: -90px;
-  overflow: hidden;
-  border-radius: 5px;
-  box-shadow: 5px 5px 10px #dfc3fb;
-}
-
-.form-container span{
-  font-weight: bold;
-  padding: 0 10px;
-  color: #555;
-  cursor: pointer;
-  width: 100px;
-  display: inline-block;
-  font-size: 24px;
-}
-
-.form-btn{
-  display: inline-block;
-}
-
-.form-container form{
-  max-width: 300px;
-  padding: 0 20px;
-  position: absolute;
-  top: 90px;
-  transition: transform 1s;
-}
-
-form input{
-  width: 100%;
-  height: 30px;
-  margin: 10px 0;
-  padding: 0 10px;
-  border: 1px solid #ccc;
-}
-
-form .btn{
-  width: 100%;
-  border: none;
-  cursor: pointer;
-  margin: 10px;
-}
-
-form a {
-  font-size: 12px;
-  padding-top: 50px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
